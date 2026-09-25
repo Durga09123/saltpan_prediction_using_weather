@@ -1,6 +1,5 @@
-streamlit==1.52.1
+streamlit
 pandas
-joblib
 requests
 scikit-learn==1.2.2
-streamlit-geolocation
+joblib
